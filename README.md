@@ -9,9 +9,9 @@
   <a href="https://www.linkedin.com/in/kumar-vibhanshu/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/vibhanshumonty" target="_blank">
+<!--   <a href="https://twitter.com/vibhanshumonty" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   
 </p>
 <p align='center'>
@@ -36,10 +36,10 @@
 [<img align="left" alt="kumar vibhanshu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 ### Languages I worked on
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=vibhanshumonty&theme=light&hide_langs_below=1'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-vibhanshu&theme=light&hide_langs_below=1'/>
 -
 ### My Github Stats
-<img src='https://github-readme-stats.vercel.app/api?username=vibhanshumonty&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'/>
+<img src='https://github-readme-stats.vercel.app/api?username=kumar-vibhanshu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'/>
 -
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -52,13 +52,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-[website]: https://vibhanshumonty.github.io
-[twitter]: https://twitter.com/vibhanshumonty
-[instagram]: https://instagram.com/vibhanshumonty
+[website]: https://kumar-vibhanshu.github.io
 [linkedin]: https://www.linkedin.com/in/kumar-vibhanshu/
 
 
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/vibhanshumonty/vibhanshumonty"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/kumar-vibhanshu/kumar-vibhanshu"></a>
 </p>
