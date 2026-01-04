@@ -1,0 +1,163 @@
+%-------------------------
+% ATS-Friendly Resume
+% Author: Kumar Vibhanshu
+%-------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-6pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule\vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Kumar Vibhanshu} \\ \vspace{1pt}
+    \small 8809233239 $|$ \href{mailto:kmrvibhanshu@gmail.com}{\underline{kmrvibhanshu@gmail.com}} $|$ 
+    \href{https://linkedin.com/in/kumar-vibhanshu}{\underline{linkedin.com/in/kumar-vibhanshu}} $|$
+    \href{https://github.com/kumar-vibhanshu}{\underline{github.com/kumar-vibhanshu}}
+\end{center}
+
+%-----------PROFESSIONAL SUMMARY-----------
+\section{Professional Summary}
+\small{Technical Lead with 5+ years of overall software engineering experience and a strong foundation in hands-on development. Brings deep practical expertise in cloud migration, infrastructure automation, microservices architecture, and DevOps practices. Proficient in AWS, Azure, Kubernetes, Docker, Terraform, and CI/CD pipelines, with experience designing and supporting scalable, secure, multi-cloud systems. Proven track record of improving system reliability and delivery efficiency, including reducing deployment time by 40\%. AWS Certified Solutions Architect and Azure AI Engineer Associate, with solid client-facing and cross-team collaboration experience..}
+
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Cloud Platforms}{: AWS  (EC2, S3, Lambda, VPC, ECR, EKS, RDS, CloudFormation, IAM...), Microsoft Azure (App Services, Functions, Storage)} \\
+     \textbf{AI \& ML}{: Azure OpenAI Service, Azure Cognitive Services, Generative AI} \\
+     \textbf{Development \& Databases}{: Microservices, RESTful APIs, Full-stack Development, MySQL, PostgreSQL, SQL Server} \\
+     \textbf{DevOps}{: GitHub Actions, CI/CD Pipelines, Docker, Kubernetes, Terraform} \\
+     \textbf{Observability \& Monitoring}{: CloudWatch, Prometheus, Grafana, New Relic, Kibana}
+    }}
+ \end{itemize}
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Technical Lead}{February 2025 - Present}
+      {Tata Consultancy Services}{Gurugram, Haryana, India}
+      \resumeItemListStart
+        \resumeItem{Lead technical teams in designing and delivering enterprise-grade cloud and AI solutions for high-profile clients}
+        \resumeItem{Architect multi-cloud solutions leveraging AWS and Azure services to serve millions of users with high availability}
+        \resumeItem{Implement AI-powered applications using Azure OpenAI Service and Cognitive Services for intelligent automation}
+        \resumeItem{Drive DevOps best practices and automate CI/CD pipelines using GitHub Actions, reducing deployment time by 40\%}
+        \resumeItem{Mentor development teams on cloud architecture patterns, microservices design, and AI implementation strategies}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {System Engineer | Developer}{May 2021 - February 2025}
+      {Tata Consultancy Services}{Gurugram, Haryana, India}
+      \resumeItemListStart
+        \resumeItem{Developed and deployed scalable microservices architectures with seamless RESTful API integrations}
+        \resumeItem{Built cloud-native applications on AWS and Azure with focus on performance, security, and cost optimization}
+        \resumeItem{Implemented Infrastructure as Code practices for automated provisioning and configuration management}
+        \resumeItem{Collaborated with cross-functional teams to deliver high-impact projects meeting strict SLA requirements}
+        \resumeItem{Maintained comprehensive technical documentation and participated in code reviews to ensure quality standards}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {PHP Developer}{Jan 2021 - Apr 2021}
+      {SIB Infotech}{Delhi, India}
+      \resumeItemListStart
+        \resumeItem{Developed web applications with emphasis on performance optimization and database schema design}
+        \resumeItem{Designed responsive websites and implemented enhancements for existing applications}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+   \resumeSubHeadingListStart
+      \resumeItem{\textbf{Cloud Migration:} Led migration of legacy applications to AWS reducing infrastructure costs by 35\% while improving system performance by 50\%.}
+      \resumeItem{\textbf{Microservices Platform:} Designed and implemented high availability architecture using Symfony MVC framework, PHP, PostgreSQL, and Docker with automated CI/CD for zero downtime updates and seamless scaling.}
+    \resumeSubHeadingListEnd
+
+
+%-----------CERTIFICATIONS-----------
+\section{Certifications}
+    \resumeSubHeadingListStart
+      \resumeSubItem{\textbf{AWS:} Solutions Architect Associate (SAA-C03), AI Practitioner (AIF-C01), Cloud Practitioner (CLF-C02)}
+      \resumeSubItem{\textbf{Microsoft Azure:} AI Engineer Associate (AI-102), Azure Fundamentals (AZ-900), Azure AI Fundamentals (AI-900)}
+      \resumeSubItem{\textbf{Others:} Google Cloud Compute Basics, Rest API (Intermediate) Skills Certification}
+    \resumeSubHeadingListEnd
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Master of Computer Applications (MCA)}{2018 - 2020}
+      {TIT Technocrats Group of Institutions}{Bhopal, India}
+    \resumeSubheading
+      {Bachelor of Computer Applications (BCA)}{2014 - 2017}
+      {T.N.B. College}{Bhagalpur, India}
+  \resumeSubHeadingListEnd
+
+\end{document}
