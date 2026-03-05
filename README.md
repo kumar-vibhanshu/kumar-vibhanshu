@@ -68,9 +68,8 @@ I'm a passionate Technical Lead with 5+ years of experience in architecting ente
 | Cloud Certifications | AI/ML Certifications |
 |:---:|:---:|
 | ☁️ AWS Solutions Architect - Associate (SAA-C03) | 🤖 Microsoft Azure AI Engineer Associate (AI-102) |
-| ☁️ AWS Certified AI Practitioner (AIF-C01) | 🤖 Microsoft Azure AI Fundamentals (AI-900) |
-| ☁️ AWS Certified Cloud Practitioner (CLF-C02) | |
-| ☁️ Microsoft Azure Fundamentals (AZ-900) | |
+| ☁️ AWS Certified Cloud Practitioner (CLF-C02) | 🤖 Microsoft Azure AI Fundamentals (AI-900) |
+| ☁️ Microsoft Azure Fundamentals (AZ-900) | 🤖 AWS Certified AI Practitioner (AIF-C01) |
 
 </div>
 
